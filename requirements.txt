@@ -1,0 +1,5 @@
+# HDC Automation Control System
+# Python dependencies for Windows + OPC DA Honeywell
+
+colorama==0.4.6
+pywin32==312
